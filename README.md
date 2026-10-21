@@ -28,6 +28,8 @@ This workflow automates student dataset ingestion and data hygiene pipelines:
 
 ## 🛠️ Workflow Architecture
 
+![n8n Workflow Diagram](./n8n-flow.png)
+
 ```
 [ Form Trigger (FileUpload) ]
              │
