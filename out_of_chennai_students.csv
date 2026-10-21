@@ -1,0 +1,35 @@
+﻿Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+PRIYA S,Priya S,priya.s@yahoo.com,98765,Machine Learning,TRUE,Coimbatore,06-05-2025
+STU1003,Ravi Kumar,ravikumar@,9123456789,Python,TRUE,MADURAI,19-02-2025
+KARTHIK,Karthik,karthik123,,Python,TRUE,,08-02-2025
+Deepa M,Deepa M,Deepam@gmail.com,8123456789,DATA SCIENCE,TRUE,Salem,09-03-2025
+SURESH T,Suresh T,suresht@,7654321098,Python,TRUE,TRICHY,14-01-2025
+RAJESH KK,Rajesh Kk,rajeshkk@gmail,8877665544,PYTHON,TRUE,Coimbatore,15-05-2025
+STU1010,Nithya R,nithyar@yahoo.com,9765432109,Data Science,TRUE,Madurai,25-04-2025
+STU1012,Meena D,meenad@,,ML,TRUE,salem,21-02-2025
+STU1013,Santhosh V,santhoshv@gmail.com,9900112233,Python,TRUE,Trichy,26-01-2025
+STU1015,Vijay S,Vijays@yahoo.com,9922334455,Machine Learning,TRUE,Coimbatore,24-04-2025
+STU1016,Pooja N,poojan@gmail.com,9090909090,PYTHON,TRUE,,16-02-2025
+STU1017,Dinesh R,DINESH R,8080808080,Data Science,TRUE,Madurai,23-02-2025
+STU1019,Bala K,balak@gmail,7070707070,Machine Learning,TRUE,SALEM,12-06-2025
+STU1020,Revathi M,revathim@yahoo.com,9191919191,ML,TRUE,Trichy,12-06-2025
+STU1022,Geetha,geetha@,9393939393,DATA SCIENCE,TRUE,COIMBATORE,08-05-2025
+prasanth j,Prasanth J,prasanthj@gmail.com,7474747474,python,TRUE,madurai,05-03-2025
+STU1025,Senthil K,senthilk@gmail,,PYTHON,TRUE,TRICHY,15-05-2025
+STU1026,Janaki R,janakir@gmail.com,9696969696,Data Science,TRUE,Salem,02-05-2025
+usha d,Usha D,ushad@gmail.com,8989898989,ML,NO,MADURAI,21-04-2025
+STU1029,Gopal V,gopalv@yahoo,9010101010,Python,TRUE,Coimbatore,12-01-2025
+STU1030,Thenmozhi,thenmozhi@gmail.com,8121212121,Machine Learning,TRUE,,13-04-2025
+STU1031,Arjun C,arjunc@gmail.com,7232323232,PYTHON,TRUE,Trichy,15-01-2025
+STU1033,Naveen B,naveenb@gmail.com,9343434343,Python,TRUE,Salem,23-06-2025
+STU1035,Karthi P,karthip@gmail,7565656565,PYTHON,TRUE,COIMBATORE,14-02-2025
+STU1036,Suganya T,suganyt@gmail.com,9676767676,Data Science,TRUE,Madurai,10-04-2025
+VENKAT R,Venkat R,VENKAT R,8787878787,Python,TRUE,TRICHY,12-02-2025
+MOHAN J,Mohan J,mohanj@yahoo.com,9898989898,Python,TRUE,Salem,23-01-2025
+STU1040,Dharani S,dharanis@gmail,7909090909,Data Science,TRUE,,19-04-2025
+PADMA V,Padma V,PADMAV@,9121212121,PYTHON,TRUE,COIMBATORE,22-03-2025
+STU1043,Balaji T,balajit@gmail.com,7232323232,Data Science,NO,Madurai,17-03-2025
+STU1045,Selvam K,selvamk@gmail,8343434343,Machine Learning,TRUE,SALEM,28-02-2025
+STU1046,Chitra R,chitrar@gmail.com,9454545454,ML,TRUE,Trichy,15-03-2025
+STU1048,Latha S,lathas@gmail.com,8676767676,DATA SCIENCE,TRUE,COIMBATORE,04-04-2025
+SURESH B,Suresh B,sureshb@yahoo,,Python,TRUE,Madurai,20-04-2025

@@ -1,0 +1,17 @@
+﻿Student_ID,Name,Email,Phone,Course,Fee_Paid,City,Enrolled_Date
+STU1001,Manoj Kumar,manojk@gmail,9876543210,Python,TRUE,Chennai,23-05-2025
+STU1004,Anitha R,anitha@gmail.com,9000011111,ml,TRUE,chennai,05-04-2025
+STU1008,Kavitha,kavitha99@gmail.com,9988776655,machine learning,TRUE,chennai,15-01-2025
+Arun P,Arun P,arunp@gmail.com,7788990011,Python,TRUE,CHENNAI,17-06-2025
+LAKSHMI,Lakshmi,lakshmi@gmail,8811223344,data science,TRUE,CHENNAI,07-03-2025
+STU1018,Saranya,Saranya22@gmail.com,,Python,TRUE,Chennai,11-02-2025
+STU1021,Muthu S,muthus@gmail.com,8282828282,Python,TRUE,Chennai,24-02-2025
+DIVYA P,Divya P,divyap@yahoo.com,8585858585,Machine Learning,TRUE,Chennai,2025-06-10
+STU1027,Ramesh M,MANOJ.K@GMAIL.COM,7878787878,Python,TRUE,Chennai,2025-03-01
+STU1032,Swetha L,swethal@,,data science,TRUE,CHENNAI,26-05-2025
+MALA S,Malia S,malas@yahoo.com,8454545454,Machine Learning,NO,Chennai,21-03-2025
+STU1038,Indira K,indirak@gmail.com,,ML,TRUE,Chennai,01-06-2025
+STU1041,Kishore M,kishorem@gmail.com,8010101010,machine learning,TRUE,CHENNAI,21-02-2025
+STU1044,Rekha N,rekhan@yahoo.com,,Python,TRUE,Chennai,05-02-2025
+STU1047,Ganesh P,ganeshp@,7565656565,Python,TRUE,Chennai,27-06-2025
+ammu k,Ammu K,ammuk@gmail.com,9787878787,machine learning,TRUE,CHENNAI,13-02-2025
